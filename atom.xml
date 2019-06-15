@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wwwww1wwwww.github.io</id>
+    <title>520TYY</title>
+    <updated>2019-06-15T17:35:50.829Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wwwww1wwwww.github.io"/>
+    <link rel="self" href="https://wwwww1wwwww.github.io/atom.xml"/>
+    <subtitle>温故而知新
+学不进则退</subtitle>
+    <logo>https://wwwww1wwwww.github.io/images/avatar.png</logo>
+    <icon>https://wwwww1wwwww.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, 520TYY</rights>
+    <entry>
+        <title type="html"><![CDATA[文字游戏大纲？？]]></title>
+        <id>https://wwwww1wwwww.github.io/post/fame</id>
+        <link href="https://wwwww1wwwww.github.io/post/fame">
+        </link>
+        <updated>2019-06-15T17:29:47.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://wwwww1wwwww.github.io/post-images/1560619948989.png" alt=""></p>
+<p>游戏名：创世纪（灭世纪）</p>
+<p>类型：文字，沙盘，发展，</p>
+<p>内容：
+从第一个生命体的诞生到最后一个生命体的灭亡，文明短暂，眨眼一瞬，文明已经从蒙昧走向了科学的路上，不同的世界，那不一样的文明路线，不一样的条件，发展不一样的价值体系。扮演一个上帝，看他们演绎自己的文明史诗！</p>
+<p>特点，
+1. 多开局条件 ：灵力， 魔法，世界观的选择。先科技路线。
+2. 随机的条件触发，历史充满偶然。
+3. 科技，农业，自动控制，做一个上帝吧，不必为凡人的每一餐饭操心</p>
+<p>主体角色/元素：
+人类
+精灵
+兽人
+矮人
+龙族
+恶魔
+天使
+神孽
+元素：
+雨水
+海洋
+陆地
+(loading)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://wwwww1wwwww.github.io/post/hello-gridea</id>
+        <link href="https://wwwww1wwwww.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
